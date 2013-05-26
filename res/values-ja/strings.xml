@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">RB 壁紙</string>
+    <string name="title_activity_wallpaper">RB 壁紙</string>
+    <string name="back">戻る</string>
+    <string name="next">次</string>
+    <string name="page">ページ: </string>
+    <string name="set_wallpaper">壁紙に設定</string>
+    <string name="save_wallpaper">ストレージに保存</string>
+    <string name="downloading">ダウンロードしています…</string>
+    <string name="wait">しばらくお待ちください</string>
+    <string name="set">壁紙を設定しました。</string>
+    <string name="saved">壁紙を次の場所に保存しました : </string>
+    <string name="jump">ページを移動</string>
+    <string name="jump2">ページ移動先:</string>
+    <string name="about">このアプリについて</string>
+    <string name="vote">投票</string>
+    <string name="wallpaper">壁紙</string>
+    <string name="setting_wallpaper">壁紙を設定しています…</string>
+    <string name="category_name">カテゴリ名</string>
+    <string name="choose_category">カテゴリを選択してください</string>
+
+</resources>
